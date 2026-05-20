@@ -104,7 +104,8 @@
         <h2>Our Services</h2>
         <ul>
             <li>General Medicine</li>
-            <li>Emergency Care</li>
+            <li>Pediatrics</li>
+            <li>Emergency care</li>
             <li>Lab Tests</li>
             <li>Pharmacy</li>
         </ul>
@@ -118,6 +119,11 @@
 
         <hr>
 
+        <h3>Dr. B.Rajashekar</h3>
+        <p>M.D. pediatrics</p>
+          
+       <hr>
+      
         <h3>Dr. Shiva Kumar</h3>
         <p>MBBS</p>
     </div>
